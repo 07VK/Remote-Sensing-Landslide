@@ -80,3 +80,9 @@ To run these notebooks:
 4.  Follow the instructions and execute the cells within each notebook.
 
 **Note:** Processing satellite data with SNAP and performing spatial analysis with ArcGIS Pro might require specific data formats and directory structures. Refer to the comments and code within the notebooks for detailed instructions.
+
+## Further Information
+
+**Related Publication:**
+
+* [Detection and Prediction of Landslide Vulnerability through Case Study using DInSAR Technique and U-net Model](https://ieeexplore.ieee.org/document/10061077)
